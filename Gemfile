@@ -40,3 +40,7 @@ source 'https://rubygems.org'
  gem 'turbolinks'
 
  gem 'bootstrap-sass'
+
+ gem 'devise'
+
+ gem 'figaro'
