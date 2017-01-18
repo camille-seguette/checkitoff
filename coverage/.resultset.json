@@ -84,7 +84,6 @@
         null,
         1,
         1,
-        1,
         null,
         null
       ],
@@ -519,6 +518,21 @@
         null,
         1
       ],
+      "/Users/camille/bloc/code/checkitoff/config/initializers/setup_mail.rb": [
+        null,
+        1,
+        0,
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
       "/Users/camille/bloc/code/checkitoff/config/initializers/wrap_parameters.rb": [
         null,
         null,
@@ -535,14 +549,36 @@
         null,
         null
       ],
+      "/Users/camille/bloc/code/checkitoff/spec/factories/item.rb": [
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/camille/bloc/code/checkitoff/spec/factories/user.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/Users/camille/bloc/code/checkitoff/config/routes.rb": [
         1,
+        null,
         1,
         1,
         null,
         1,
         null,
         1,
+        null,
+        1,
+        1,
+        null,
         null,
         null,
         null,
@@ -602,13 +638,21 @@
       ],
       "/Users/camille/bloc/code/checkitoff/app/models/user.rb": [
         1,
-        null,
+        1,
         null,
         1,
         null,
         null
       ],
       "/Users/camille/bloc/code/checkitoff/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/camille/bloc/code/checkitoff/app/helpers/items_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/camille/bloc/code/checkitoff/app/helpers/users_helper.rb": [
         1,
         null
       ],
@@ -635,8 +679,29 @@
         null,
         1,
         null
+      ],
+      "/Users/camille/bloc/code/checkitoff/spec/models/item_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        2,
+        null
+      ],
+      "/Users/camille/bloc/code/checkitoff/app/models/item.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/camille/bloc/code/checkitoff/spec/models/user_spec.rb": [
+        1,
+        null,
+        1,
+        2,
+        null
       ]
     },
-    "timestamp": 1482964064
+    "timestamp": 1484780326
   }
 }
