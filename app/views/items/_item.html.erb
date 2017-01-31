@@ -1,4 +1,8 @@
-<!-- the variable 'item' is available here -->
 <%= content_tag :tr, class: "media", id: "item-#{item.id}" do %>
-  <td><%= item.name %></td>
+  <div class="media">
+    <div class="media-body">
+      <td><%= item.name %></td>
+      <td><%= link_to "", user_items_path(item), method: :delete, class: 'glyphicon glyphicon-ok', remote: true %></td>
+    </div>
+  </div>
 <% end %>
